@@ -7,3 +7,4 @@ https://colab.research.google.com/drive/11ez28Pkg9VsWmdlIQHaKMCbNIio85NXx?authus
 
 
 ## Tema 2: Encuesta Nacional de Inclusión Financiera (ENIF) 2024 – INEGI
+https://colab.research.google.com/drive/14F0s0Uc6NHw9hTtKjkHvHq_S-ghBayC7?usp=sharing
